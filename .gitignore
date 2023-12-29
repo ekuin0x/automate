@@ -2,3 +2,4 @@
 data.json
 /.dist
 /__pycache__
+!app.py
