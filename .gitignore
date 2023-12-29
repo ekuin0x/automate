@@ -1,0 +1,4 @@
+*.py
+data.json
+/.dist
+/__pycache__
